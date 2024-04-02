@@ -37,16 +37,17 @@ main {
   padding: 2.5rem;
   padding-bottom: 1.875rem;
   border-radius: 1rem;
+  box-shadow: 10px 16px 30px rgba(0,0,0, .1);
 }
 
 .heading {
   display: flex;
   gap: 1rem;
   color: hsl(292, 42%, 14%);
-  margin-bottom: 1rem;
+  /* margin-bottom: .5rem; */
 }
 h1 {
-  font-size: 3rem;
+  font-size: 3.2rem;
 }
 
 .accordion {
